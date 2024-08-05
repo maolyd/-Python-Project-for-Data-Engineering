@@ -4,7 +4,7 @@ This project requires you to compile the list of the top 10 largest banks in the
 
 # Reach/Follow me on <br>
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/mawuli-dogbey-58aa0698//" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/linkedin.png" alt="linkedIn" width="50" height="50"/> 
+  <a href="https://https://www.linkedin.com/in/mawuli-dogbey-58aa0698//" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/linkedin.png" alt="linkedIn" width="50" height="50"/> a
 </p>
 <br>
 
